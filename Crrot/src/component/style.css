@@ -1,0 +1,47 @@
+/* not copiy  */
+.container{
+    max-width: 1500px;
+    margin: 0 auto;
+}
+/* copiy */
+.cr-breadcrumb-image{
+    background-color: #e4f2ed;
+}
+.section-products{
+    padding: 100px 0px 0px;
+}
+.Lorem{
+    max-width: 626px;
+    margin: 0 auto;
+    color: #9b9b9b;
+}
+.cards{
+    width: 351px;
+    height: 522px;
+}
+.cards2{
+    width: 476px;
+    height: 619px;
+}
+.shoping{
+    width:35px;
+    height: 35px;
+    right: 157px;
+    top: 315px;
+}
+.shoping2{
+    right: 157px;
+    top: 315px;
+}
+.shoping-icon{
+    color: #64b496;
+}
+.snacks{
+    transition: 0.5s;
+}
+.snacks:hover{
+    color: #64b496;
+}
+.star{
+    color: #f5885f;
+}
